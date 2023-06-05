@@ -1,0 +1,86 @@
+fieldset{
+    background-color: rgb(81, 190, 250);
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: linear-gradient(100deg, rgb(0, 119, 255),rgb(84, 235, 233) )
+   
+}
+
+body{
+    background-color: gray;
+    
+    
+}
+
+div + div{
+
+    margin-top: 1em;
+}
+
+#message{
+    
+    text-align: justify;
+    float: top;
+       
+}
+
+#lab1{
+    margin-right:40px;
+
+}
+#Name{
+    margin-left: 5px;
+    margin-right: 6px ;
+}
+
+p,h1,#lab1,#lab2,#lab3,#lab4,#lab5,#lab6{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: weight 1px;
+}
+
+#lab2{
+    margin-right:80px;
+}
+
+#lab3{
+    margin-right:78px;
+}
+
+#phonenumber{
+    margin-right: 10px ;
+}
+
+#lab4{
+    margin-right: 10px;
+}
+
+#lab5{
+ margin-right: 60px;
+}
+
+#lab6{
+    margin-right:40px; 
+}
+
+fieldset{
+ 
+    border-radius: 10px;
+}
+
+p{
+    font-size:medium;
+}
+
+button{
+    color: white;
+    background-color:rgb(31, 131, 198);
+    padding: 8px;
+    align-content: center;
+    border-color: white;
+    border-radius: 5px;
+    border: 0.5%;
+
+}
+
+
